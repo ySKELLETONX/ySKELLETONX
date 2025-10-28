@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ySKELLETONX&theme=dracula&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ySKELLETONX&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 </div>
-## Habilidades
-
 <div class="inline-block">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
