@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ySKELLETONX&theme=dracula&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ySKELLETONX&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 </div>
-
+![ySKELLETONX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ySKELLETONX&theme=dracula&hide_border=true)
 ## Habilidades
 
 <div class="inline-block">
