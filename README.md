@@ -6,13 +6,7 @@
 
 ## Github Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ySKELLETONX/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg">
-  <img src="https://raw.githubusercontent.com/ySKELLETONX/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/ySKELLETONX/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg">
-  <img src="https://raw.githubusercontent.com/ySKELLETONX/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/ySKELLETONX/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySKELLETONX&show_icons=true&theme=radical)
 
 ---
 
