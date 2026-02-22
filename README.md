@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/guilhermetb">
+  <a href="https://buymeacoffee.com/guilhermetb">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
   </a>
 </div>
